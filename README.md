@@ -6,8 +6,6 @@ English | [简体中文](./README-zh.md)
 
 
 
-**The current version is `v4.0+` build on `vue-cli`. If you want to use the old version , you can switch branch to [tag/3.11.0]
-
 ## Build Setup
 
 
